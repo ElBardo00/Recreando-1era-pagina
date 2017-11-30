@@ -1,1 +1,18 @@
+.masthead {
+  height: 50px;
+  background-color: white;
+  width: 100%;
+  padding:0;
+}
 
+/* .content { } y esto? */
+
+.logo {
+  text-align: center;
+  padding: 10px 0;
+  left: 0;
+  margin: 0;
+/*  Aqui me quede, vamos a imitar el icono de 
+  mozilla mediante un div negro rectangular "blackblc"
+  intentando que quede centrado como en la pagina */
+}
