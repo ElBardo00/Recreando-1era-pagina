@@ -13,6 +13,7 @@
   margin: 0 auto;
   display: block;
   line-height: 1.5;
+  padding: 20px;
   
   
 }
@@ -36,3 +37,15 @@
     font-size: 16px;  
     
   }
+
+#nav-download {
+  display: block;
+  float: right;
+  margin: 11px 0 0;
+  vertical-align: top;  
+}
+
+
+
+/* hello-world = color: x.color  */
+
